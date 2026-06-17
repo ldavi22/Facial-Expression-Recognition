@@ -15,7 +15,8 @@ FER2013-Emotion-Recognition/
 ├── model_experiment_VGGStyleNet.ipynb     # VGG3StyleNet experiments (67-68%)
 ├── model_experiment_VGG4StyleNet.ipynb    # VGG4StyleNet experiments (70%)
 ├── model-experiment-resnettype.ipynb      # ResNet-style with skip connections
-└── model_inference.ipynb                  # Inference + Kaggle submission
+├── model_inference.ipynb                  # Inference + Kaggle submission
+└── submission.csv                         # საბოლოო submission
 ```
  
 ## მონაცემთა Pipeline
